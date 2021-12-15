@@ -4,25 +4,27 @@
 
 ## School: High School of Telecommunication Arts and Technology
 
-## Email: <u> hannal7626@hstat.org </u>
+### Email: <u> hannal7626@hstat.org </u>
 
-## Schedule:
+---
 
-## Bio:
-I was born at China and moved to the US at 10 months. So, I don't have much experience of life in China. 
+### Bio:
+I was born at [China](china.com) and moved to the US at _10 months_. So, I don't have much experience of life in China. 
 
-<b> Weekdays: </b>
-* Chemistry 
-* English
-* Spanish
-* SEP 10
-* Dance
-* Lunch
-* History
-* Algebra 
+### Schedule:
 
-<b> Others: </b>
+**Weekdays:** 
+1. Chemistry 
+2. English
+3. Spanish
+4. SEP 10
+5. Dance
+6. Lunch
+7. History
+8. Algebra  
+
+**Others:**
 * SEE 
 * PRYSAFE
-* Minds Matter
+* Minds Matter  
 
