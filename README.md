@@ -17,7 +17,7 @@ I was born at [China](china.com) and moved to the US at _10 months_. So, I don't
 <ol>
     <li>Chemistry</li>
     <li>English</li>
-    <li>Spanish</li>>
+    <li>Spanish</li>
     <li>SEP 10</li>
     <Li>Dance</li>
     <li>Lunch</li>
